@@ -5,10 +5,10 @@ Manim code use to create the supporting animations in particular videos
 [Video series on Quantum Mechanics](https://www.youtube.com/playlist?list=PL_UV-wQj1lvVxch-RPQIUOHX88eeNGzVH)
 - [This is the origin of de Broglie's matter waves (part 1)](https://youtu.be/YQNEziGyDxU)
 - [Quantum Mechanics: book recommendations](https://youtu.be/3VmPfpkKgM0)
-- [This is how the wave-particle duality of light was discovered](https://youtu.be/f7JvywBOGYY)
+- [This is how the wave-particle duality of light was discovered](https://youtu.be/f7JvywBOGYY) [[code]([https://github.com/jsdiazpo/JK0/tree/main/21%20Sommerfeld](https://github.com/jsdiazpo/JK0/tree/main/24-Wave-Particle))]
 - [Discovery of spin... but missed (Stern-Gerlach experiment, part 2)](https://youtu.be/_0zX8tL-Rak)
 - [This experiment confirmed quantum physics](https://youtu.be/BDAzFIJu9_E)
-- [The fine structure of the atom](https://youtu.be/H4ZnVpiQTDw)
+- [The fine structure of the atom](https://youtu.be/H4ZnVpiQTDw) [[code](https://github.com/jsdiazpo/JK0/tree/main/21%20Sommerfeld)]
 - [This experiment confirmed quantum energy levels](https://youtu.be/MCJl3-pHGuU)
 - [Connecting classical and quantum physics](https://youtu.be/PpuUeL2WvjM)
 - [This star almost broke Bohr's atomic model #SoMEpi](https://youtu.be/BcX1aYrLct4)
