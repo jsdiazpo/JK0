@@ -2,22 +2,22 @@
 
 Manim code use to create the supporting animations in particular videos
 
-[Video series on Quantum Mechanics](https://www.youtube.com/playlist?list=PL_UV-wQj1lvVxch-RPQIUOHX88eeNGzVH)
-- [This is the origin of de Broglie's matter waves (part 1)](https://youtu.be/YQNEziGyDxU)
-- [Quantum Mechanics: book recommendations](https://youtu.be/3VmPfpkKgM0)
-- [This is how the wave-particle duality of light was discovered](https://youtu.be/f7JvywBOGYY) [[code](https://github.com/jsdiazpo/JK0/tree/main/24-Wave-Particle)]
-- [Discovery of spin... but missed (Stern-Gerlach experiment, part 2)](https://youtu.be/_0zX8tL-Rak)
-- [This experiment confirmed quantum physics](https://youtu.be/BDAzFIJu9_E)
-- [The fine structure of the atom](https://youtu.be/H4ZnVpiQTDw) [[code](https://github.com/jsdiazpo/JK0/tree/main/21%20Sommerfeld)]
-- [This experiment confirmed quantum energy levels](https://youtu.be/MCJl3-pHGuU)
-- [Connecting classical and quantum physics](https://youtu.be/PpuUeL2WvjM)
-- [This star almost broke Bohr's atomic model #SoMEpi](https://youtu.be/BcX1aYrLct4)
-- [How Niels Bohr created the quantum atom](https://youtu.be/xINR4MoqYVc)
-- [This effect confirmed light particles](https://youtu.be/Ap9os356CZA)
-- [Millikan tests Einstein's Light Theory](https://youtu.be/fQzirkrXOxk)
-- [Unveiling the electron with oil drops](https://youtu.be/B-uWaEvXqbA))
-- [The Birth of Quantum Mechanics](https://youtu.be/WNHn6GoMaac)
-- [This math trick revolutionized physics](https://youtu.be/gXeAp_lyj9s)
+Video series on Quantum Mechanics ([playlist](https://www.youtube.com/playlist?list=PL_UV-wQj1lvVxch-RPQIUOHX88eeNGzVH))
+- This is the origin of de Broglie's matter waves (part 1) [[video](https://youtu.be/YQNEziGyDxU)]
+- Quantum Mechanics: book recommendations [[video](https://youtu.be/3VmPfpkKgM0)]
+- This is how the wave-particle duality of light was discovered [[video](https://youtu.be/f7JvywBOGYY)] [[code](https://github.com/jsdiazpo/JK0/tree/main/24-Wave-Particle)]
+- Discovery of spin... but missed (Stern-Gerlach experiment, part 2) [[video](https://youtu.be/_0zX8tL-Rak)]
+- This experiment confirmed quantum physics [[video](https://youtu.be/BDAzFIJu9_E)]
+- The fine structure of the atom [[video](https://youtu.be/H4ZnVpiQTDw)] [[code](https://github.com/jsdiazpo/JK0/tree/main/21%20Sommerfeld)]
+- This experiment confirmed quantum energy levels [[video](https://youtu.be/MCJl3-pHGuU)]
+- Connecting classical and quantum physics [[video](https://youtu.be/PpuUeL2WvjM)]
+- This star almost broke Bohr's atomic model #SoMEpi [[video](https://youtu.be/BcX1aYrLct4)]
+- How Niels Bohr created the quantum atom [[video](https://youtu.be/xINR4MoqYVc)]
+- This effect confirmed light particles [[video](https://youtu.be/Ap9os356CZA)]
+- Millikan tests Einstein's Light Theory [[video](https://youtu.be/fQzirkrXOxk)]
+- Unveiling the electron with oil drops [[video](https://youtu.be/B-uWaEvXqbA))]
+- The Birth of Quantum Mechanics [[video](https://youtu.be/WNHn6GoMaac)]
+- This math trick revolutionized physics [[video](https://youtu.be/gXeAp_lyj9s)]
 
 [Video series on the Physics of Nuclear Weapons](https://www.youtube.com/playlist?list=PL_UV-wQj1lvUhNttvv4_KsYrQxHygj3Ey)
 - [How to calculate an atomic bomb's critical mass](https://youtu.be/DIuoFAW9H3E)
