@@ -15,7 +15,7 @@ Video series on Quantum Mechanics [[playlist](https://www.youtube.com/playlist?l
 - How Niels Bohr created the quantum atom [[video](https://youtu.be/xINR4MoqYVc)]
 - This effect confirmed light particles [[video](https://youtu.be/Ap9os356CZA)]
 - Millikan tests Einstein's Light Theory [[video](https://youtu.be/fQzirkrXOxk)]
-- Unveiling the electron with oil drops [[video](https://youtu.be/B-uWaEvXqbA))]
+- Unveiling the electron with oil drops [[video](https://youtu.be/B-uWaEvXqbA)]
 - The Birth of Quantum Mechanics [[video](https://youtu.be/WNHn6GoMaac)]
 - This math trick revolutionized physics [[video](https://youtu.be/gXeAp_lyj9s)]
   
@@ -33,6 +33,6 @@ Video series on the Physics of Nuclear Weapons [[playlist](https://www.youtube.c
 - The math of saving the Enola Gay #SoME3 [[video](https://youtu.be/IEsIXui-YS8)]
   
 Physics of explosions
-- Tonga's Volcanic explosion [[video](https://youtu.be/kzBoTgI4llY)
-- How an explosion shockwave moves [[video](https://youtu.be/-UK5PUX3hOg)
-- Physics of Explosions: a seminar on blast waves [[video](https://youtu.be/JySY4bkW5wY)
+- Tonga's Volcanic explosion [[video](https://youtu.be/kzBoTgI4llY)]
+- How an explosion shockwave moves [[video](https://youtu.be/-UK5PUX3hOg)]
+- Physics of Explosions: a seminar on blast waves [[video](https://youtu.be/JySY4bkW5wY)]
