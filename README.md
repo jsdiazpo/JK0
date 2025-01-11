@@ -20,17 +20,17 @@ Video series on Quantum Mechanics [[playlist](https://www.youtube.com/playlist?l
 - This math trick revolutionized physics [[video](https://youtu.be/gXeAp_lyj9s)]
   
 Video series on the Physics of Nuclear Weapons [[playlist](https://www.youtube.com/playlist?list=PL_UV-wQj1lvUhNttvv4_KsYrQxHygj3Ey)]
-- How to calculate an atomic bomb's critical mass [[video](https://youtu.be/DIuoFAW9H3E)
-- Heisenberg and the German Bomb [[video](https://youtu.be/6zIJTwQ2blU)
-- Nuclear Weapons Q&A #1 [[video](https://youtu.be/AcwZ0cwxXOE)
-- Nuclear Bomb vs. Nuclear Reactor [[video](https://youtu.be/S-uMUq939dY)
-- Energy of a nuclear blast [[video](https://youtu.be/wr-e9rGWx0c)
-- Size of a nuclear blast [[video](https://youtu.be/8ru_LpjuabY)
-- Role of Einstein in the Atomic Bomb [[video](https://youtu.be/W3ba1Y8L_yg)
-- Physics of a nuclear explosion [[video](https://youtu.be/6VSrGDOrWXc)
-- Critical Mass: when the atomic bomb got real [[video](https://youtu.be/LduH7613QXw)
-- How bright was the Trinity test and what did Oppenheimer mean? [[video](https://youtu.be/GzfQY5FmURM)
-- The math of saving the Enola Gay #SoME3 [[video](https://youtu.be/IEsIXui-YS8)
+- How to calculate an atomic bomb's critical mass [[video](https://youtu.be/DIuoFAW9H3E)]
+- Heisenberg and the German Bomb [[video](https://youtu.be/6zIJTwQ2blU)]
+- Nuclear Weapons Q&A #1 [[video](https://youtu.be/AcwZ0cwxXOE)]
+- Nuclear Bomb vs. Nuclear Reactor [[video](https://youtu.be/S-uMUq939dY)]
+- Energy of a nuclear blast [[video](https://youtu.be/wr-e9rGWx0c)]
+- Size of a nuclear blast [[video](https://youtu.be/8ru_LpjuabY)]
+- Role of Einstein in the Atomic Bomb [[video](https://youtu.be/W3ba1Y8L_yg)]
+- Physics of a nuclear explosion [[video](https://youtu.be/6VSrGDOrWXc)]
+- Critical Mass: when the atomic bomb got real [[video](https://youtu.be/LduH7613QXw)]
+- How bright was the Trinity test and what did Oppenheimer mean? [[video](https://youtu.be/GzfQY5FmURM)]
+- The math of saving the Enola Gay #SoME3 [[video](https://youtu.be/IEsIXui-YS8)]
   
 Physics of explosions
 - Tonga's Volcanic explosion [[video](https://youtu.be/kzBoTgI4llY)
