@@ -1,6 +1,6 @@
 # JK0
 
-Manim code use to create the supporting animations in particular videos
+Manim code use to create the supporting animations used in my videos
 
 Video series on Quantum Mechanics [[playlist](https://www.youtube.com/playlist?list=PL_UV-wQj1lvVxch-RPQIUOHX88eeNGzVH)]
 - [30] Matrix Mechanics (part 1): The Genesis [[video](https://youtu.be/_lC6-RUI7PQ)]
